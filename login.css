@@ -4,7 +4,7 @@ html, body{
 }
  
 body{
-    background-color: rgb(236, 91, 255);
+    background-color: rgb(216, 128, 228);
     display: flex; /*comportamento do elemento na página*/
     font-family: Verdana;
 }
